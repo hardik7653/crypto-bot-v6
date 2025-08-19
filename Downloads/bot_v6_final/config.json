@@ -1,0 +1,9 @@
+{
+  "symbols": [
+    "BTC/USDT",
+    "ETH/USDT",
+    "LTC/USDT",
+    "XRP/USDT"
+  ],
+  "timeframe": "5m"
+}

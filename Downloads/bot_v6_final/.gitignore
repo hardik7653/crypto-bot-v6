@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS-specific
+.DS_Store
+Thumbs.db
+
+# Ignore build system caches
+.gradle/
+build/
